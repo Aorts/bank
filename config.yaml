@@ -1,0 +1,9 @@
+app:
+  port: 8080
+
+db:
+  driver: "postgres"
+  host: "localhost:5432"
+  username: ts
+  password: ts
+  database: postgres
